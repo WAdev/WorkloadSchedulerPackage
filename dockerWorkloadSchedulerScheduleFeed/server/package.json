@@ -1,0 +1,24 @@
+{
+  "name": "openwhisk-workloadscheduler-schedule-feed",
+  "description": "OpenWhisk IBM Workload Scheduler ScheduleFeed",
+  "version": "0.0.1",
+  "license": "Apache 2.0",
+  "author": {
+    "name": "IBM"
+  },
+  "keywords": [
+    "automation",
+    "tws",
+    "workload"
+  ],
+  "readme": "ERROR: No README data found!",
+  "_id": "openwhisk-workloadscheduler-schedule-feed@0.0.1",
+  "dependencies": {
+    "body-parser": "^1.11.0",
+    "btoa": "^1.1.2",
+    "express": "^4.11.2",
+    "log4js": "^0.6.20",
+    "yauzl": "^2.3.1",
+    "iws-light": "./iws-light.tgz"
+  }
+}
